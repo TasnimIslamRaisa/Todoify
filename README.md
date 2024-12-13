@@ -9,14 +9,15 @@ A simple and user-friendly To-Do List application built using Python and Tkinter
 - **Real-Time Feedback**: Provides user feedback for actions (e.g., task added, removed, or cleared).
 
 ## Screenshots
-![App Screenshot](#) <!-- Add a screenshot link here after capturing one -->
+![![image](https://github.com/user-attachments/assets/d805bacf-92b3-4e24-ba19-deff6d696d05)
+](#) <!-- Add a screenshot link here after capturing one -->
 
 ## Installation
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/TasnimIslamRaisa/Todoify.git
+   cd Todoify
    ```
 
 2. **Install Python:**
@@ -24,7 +25,7 @@ A simple and user-friendly To-Do List application built using Python and Tkinter
 
 3. **Run the Application:**
    ```bash
-   python todo_manager.py
+   python todoify.py
    ```
 
 ## Usage
@@ -39,8 +40,8 @@ A simple and user-friendly To-Do List application built using Python and Tkinter
 
 ## Project Structure
 ```
-📂 To-Do List Manager
-├── 📄 todo_manager.py   # Main application file
+📂 Todoify
+├── 📄 todoify.py   # Main application file
 ├── 📄 README.md         # Project documentation
 ```
 
@@ -58,4 +59,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For questions or suggestions, feel free to reach out:
 - **Email**: islamtasnim65@gmail.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [TasnimIslamRaisa](https://github.com/TasnimIslamRaisa)
